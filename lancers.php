@@ -11,6 +11,7 @@ $lancers = array(
 	,	"gremolitionsinc"		=> "Gremolitions_Inc."
 	,	"grey"	  				=> "Grey"
 	,	"helio" 				=> "Helio"
+	,	"isadora" 				=> "Isadora"
 	,	"juno"	  				=> "Juno"
 	,	"kaigin" 				=> "Kaigin"
 	,	"khita" 				=> "Khita"
@@ -30,6 +31,5 @@ $lancers = array(
 	,	"titus" 				=> "Titus"
 	,	"tolren" 				=> "Tol-Ren"
 	,	"zuki" 					=> "Zuki"
-	,	"isadora" 				=> "Isadora"
 
 );
